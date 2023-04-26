@@ -127,3 +127,14 @@
 
 
 }
+
+@media (max-width: 860px){
+    #lateral h3{
+        font-size: 23px;
+    }
+
+    #footer img{
+        margin-bottom: 15px;
+        max-width: 100%;
+    }
+}
