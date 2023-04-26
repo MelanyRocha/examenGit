@@ -138,3 +138,21 @@
         max-width: 100%;
     }
 }
+@media (max-width: 790px){
+    #banner h1{
+        font-size: 29px;
+    }
+
+    #card{
+        height: auto;
+    }
+
+    #card .category{
+        font-size: 14px;
+        margin-top: -20px;
+    }
+
+    #card .description{
+        display: none;
+    }
+}
