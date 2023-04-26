@@ -87,3 +87,17 @@ body{
 .titulo.right{
     text-align: right;
 }
+/* Section */
+
+.website{
+    display: flex;
+    justify-content: space-between;
+}
+
+.website img{
+    width: 48%;
+}
+
+.website .contenedor-textos-main{
+    width: 40%;
+}
