@@ -181,3 +181,9 @@
         width: 70%;
     }
 }
+
+@media (max-width: 700px){
+    #lateral h3{
+        font-size: 20px;
+    }
+}
