@@ -187,3 +187,48 @@
         font-size: 20px;
     }
 }
+@media (max-width: 660px){
+    #articles{
+        float: none;
+        width: 100%;
+        margin: 0px auto;
+    }
+
+    #lateral{
+        float: none;
+        width: 100%;
+        margin: 0px auto;
+        min-height: auto;
+        margin-top: 20px;
+    }
+
+    #banner h1{
+        font-size: 25px;
+    }
+
+    #lateral input[type="text"]{
+        width: 93%;
+    }
+
+
+    #login input[type="email"],
+    #login input[type="password"]{
+        width: 90%;
+    }
+
+    #footer{
+        height: 1200px;
+        
+    }
+
+
+    #footer .wrap > div{
+        width: 100%;
+        margin: 0px auto;
+        margin-top: 20px;
+    }
+    #footer h5{
+        font-size: 25px;
+    }
+
+}
