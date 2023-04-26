@@ -79,3 +79,11 @@ body{
     text-align: center;
     margin-bottom: 30px;
 }
+
+.titulo.left{
+    text-align: left;
+}
+
+.titulo.right{
+    text-align: right;
+}
