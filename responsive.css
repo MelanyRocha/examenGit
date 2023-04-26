@@ -77,3 +77,53 @@
         margin: 20px;
     }
 }
+@media (max-width: 900px){
+   
+   
+    #articles{
+        width: 65%;
+    }
+
+    #lateral{
+        width: 25%;
+    }
+
+    #lateral input[type="text"]{
+        width: 78%;
+    }
+
+    .aside-box{
+        width: 95%;
+        min-height: 140px;
+        height: auto;
+        padding-bottom: 10px;
+    }
+
+    #login a{
+        margin-top: 10px;
+        margin-bottom: 15px;
+    } 
+
+    #login input[type="email"],
+    #login input[type="password"]{
+        width: 67%;
+    }
+
+    #login #user,
+    #login #password{
+        margin-left: 22px;
+    }
+
+
+    #login input[type="submit"],
+    #login input[type="reset"]{
+        margin-bottom: 0px;
+    }
+
+    #login input[type="reset"]{
+        display: none;
+    }
+
+
+
+}
